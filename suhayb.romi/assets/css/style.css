@@ -1,0 +1,39 @@
+/* Scroll */
+.hidden {
+    opacity: 0 !important;
+    transition: all 1s !important;
+}
+
+.show {
+    opacity: 1 !important;
+}
+
+/* End Scroll */
+
+
+/* Scroll Image */
+.hidden2 {
+    opacity: 0 !important;
+    transform: translateX(-100%) !important;
+    transition: all 1s !important;
+}
+
+.show2 {
+    opacity: 1 !important;
+    transform: translateX(0) !important;
+}
+
+/* End Scroll */
+
+
+/* Animation */
+.icon {
+    font-size: 100px !important;
+}
+
+/* End Animation */
+
+
+.Email{
+    margin-bottom: 700px !important;
+}
